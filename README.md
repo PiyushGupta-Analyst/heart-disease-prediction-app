@@ -2,7 +2,7 @@
 
 An AI-powered web application that predicts the likelihood of heart disease based on clinical parameters using a Machine Learning model.
 
-🔗 **Live App:** (Add your Streamlit link after deployment)
+🔗 **Live App:** 
 
 ---
 
