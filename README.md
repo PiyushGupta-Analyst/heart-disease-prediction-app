@@ -2,7 +2,7 @@
 
 An AI-powered web application that predicts the likelihood of heart disease based on clinical parameters using a Machine Learning model.
 
-🔗 **Live App:** 
+🔗 **Live App:** https://piyushgupta-analyst-heart-disease-prediction-app-app-9jcqrr.streamlit.app/
 
 ---
 
